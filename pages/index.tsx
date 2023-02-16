@@ -881,10 +881,9 @@ map.on('dragstart', (e) => {
   <div className='flex flex-col h-full w-screen absolute'>
       <Head>
      
-      <link rel="icon" href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-32x32.png" sizes="32x32"/>
-<link rel="icon" href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-192x192.png" sizes="192x192"/>
-<link rel="apple-touch-icon" href="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-180x180.png"/> 
-<meta name="msapplication-TileImage" content="https://mejiaforcontroller.com/wp-content/uploads/2020/12/cropped-favicon-1-270x270.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://controller.lacity.gov/favicon/cropped-favicon-1-180x180.png"/>
+       <link rel="icon" type="image/png" sizes="32x32" href="https://controller.lacity.gov/favicon/cropped-favicon-1-32x32.png"/>
+       <link rel="shortcut icon" href="https://controller.lacity.gov/favicon/favicon.ico"/>
 
 
      <meta charSet="utf-8" />
