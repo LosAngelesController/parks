@@ -15,7 +15,7 @@ env:
   REPO_NAME: parks
 
 jobs:
-  build-and-deploy
+  build-and-deploy:
     name: Setup, Build, and Deploy
     runs-on: ubuntu-latest
     steps:
