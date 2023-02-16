@@ -10,7 +10,8 @@
     "homebuild": "export SET NODE_OPTIONS=--openssl-legacy-provider",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "cloudrunstart": "next start -p 8080"
   },
   "dependencies": {
     "@babel/types": "^7.17.0",
